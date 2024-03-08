@@ -1,0 +1,65 @@
+body {
+    background-image: url('https://ngcmshak.ru/uploads/dsn/fe/72/001/1587646418_38-p-besshovnie-foni-dlya-saitov-112.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 90vh; 
+    margin: 0;
+    padding: 0;
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400px;
+    font-style: normal; 
+}
+.centered {
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.form-control {
+    margin-right: 1px; 
+}
+
+select {
+    margin-left: 135px; 
+    margin-top: 80px;
+    height: 35px;
+    border-radius: 5px;
+
+}
+input[type="text"] {
+    width: 900px; 
+    padding: 15px; 
+    font-size: 16px; 
+    border-radius: 25px;
+}
+.btn{
+  margin-left: 290px;
+  width: 90px;
+  height: 35px;
+  border-radius: 6px;
+  
+
+}
+header {
+    background-color: #333; 
+    color: white; 
+    padding: 10px 0;
+    height: 50px;
+    margin: 0;
+    box-shadow: 0 5px 4px rgba(0, 0, 0, 0.2); 
+    display: flex;
+    align-items: center;
+    
+
+}
+
+.header_text{
+    margin-left: 40px; 
+    margin-right: 10px;
+    font-size: 30px;      
+}    
+
+
