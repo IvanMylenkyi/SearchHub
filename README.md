@@ -25,6 +25,17 @@ This project is a simple search engine web application built with Express.js. It
 - Yahoo
 - Bing
 
+## Technologies
+
+- Express.js - a web framework for building web applications with JavaScript & Node.js.
+- HTML/CSS - for creating the user interface and interacting with users.
+
+## Author
+
+Author: Ivan Mylenkyi
+
+Contact: mylenkyiivan@gmail.com
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
